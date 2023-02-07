@@ -1,1 +1,2 @@
-console.log("Welcom John");
+var a="john";
+console.log("Welcom "+a);

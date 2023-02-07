@@ -1,2 +1,2 @@
-console.log("New value of a: 10");
-console.log("New value of b: 20");
+new a=20,new b=10;
+console.log(a=10,b=20);

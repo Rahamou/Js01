@@ -1,1 +1,2 @@
-console.log(750);
+var a=25*5*6;
+console.log(a=750);
