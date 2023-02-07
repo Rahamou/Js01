@@ -1,2 +1,2 @@
-Who:World
-console.log("Hello who:?");
+Who:"world";
+console.log("Hello", Who);

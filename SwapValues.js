@@ -1,2 +1,7 @@
-new a=20,new b=10;
-console.log(a=10,b=20);
+var a=10;
+var b=20;
+var c=a;
+a=b;
+b=c;
+console.log(a);
+console.log(b);
