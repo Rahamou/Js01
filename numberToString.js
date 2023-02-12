@@ -5,8 +5,4 @@ function numberToString(){
         console.log("Sortie :",frenchnumber);
 }
 
-
-//modulo.exports = numberToString
-
-
-
+//modulo.exports=numberToString
