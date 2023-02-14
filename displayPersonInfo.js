@@ -4,6 +4,9 @@ let personne = {
   "âge" : 30
   }
   
-
-  console.log("nom: ", personne.nom);
-  console.log("Age: ", personne.âge);
+  
+  function displayPersonInfo(personne){
+    console.log("nom: ", personne.nom);
+    console.log("Age: ", personne.âge);
+}
+displayPersonInfo(personne);
