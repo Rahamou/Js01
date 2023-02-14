@@ -3,6 +3,6 @@ let book = {
   "auteur" : "Camara Laye",
   "année" : 1953
 }
-    console.log("Titre: " ,book.titre,);
-    console.log("Auteur: ", book.auteur);
-    console.log("année: ", book.année );
+    console.log("Titre:" ,book.titre);
+    console.log("Auteur:", book.auteur);
+    console.log("année:", book.année );
