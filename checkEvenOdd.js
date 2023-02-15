@@ -1,8 +1,8 @@
 function checkEvenOdd (r) {
   if (r % 2 != 0)
-  { console.log("impair"); }
+  { console.log("Impair"); }
   else
-   { console.log("pair"); }
+   { console.log("Pair"); }
     
   } 
     

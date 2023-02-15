@@ -1,7 +1,7 @@
 function checkNumber(a){
     if(a<5){
         console.log('Faible');
-    } else
+    }else if(a==5||a==6)
     {
         console.log('Moyen');
     }
